@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movies api</string>
+    <string name="picture_of_movie">Picture of movie</string>
+</resources>
